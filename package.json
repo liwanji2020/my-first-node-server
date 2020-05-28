@@ -1,0 +1,12 @@
+{
+  "name": "my-first-node-server",
+  "version": "1.0.0",
+  "description": "first study node",
+  "main": "server.js",
+  "scripts": {
+    "test": "make test",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
